@@ -1,0 +1,111 @@
+"Bullet.Concrete"
+{
+	"channel"				"CHAN_STATIC"
+	"volume"				"1.0"
+	"CompatibilityAttenuation"		"ATTN_NORM"
+	"pitch"				"99, 101"
+	"soundlevel"			"SNDLVL_90dB"
+	"rndwave"
+	{
+	"wave"				"physics/concrete/concrete_impact_bullet1.wav"
+	"wave"				"physics/concrete/concrete_impact_bullet2.wav"
+	"wave"				"physics/concrete/concrete_impact_bullet3.wav"
+	"wave"				"physics/concrete/concrete_impact_bullet4.wav"
+	}
+}
+"Bullet.Flesh"
+{
+	"channel"				"CHAN_STATIC"
+	"volume"				"1.0"
+	"CompatibilityAttenuation"		"ATTN_NORM"
+	"pitch"				"99, 101"
+	"soundlevel"			"SNDLVL_90dB"
+	"rndwave"
+	{
+	"wave"				"physics/flesh/flesh_impact_bullet1.wav"
+	"wave"				"physics/flesh/flesh_impact_bullet2.wav"
+	"wave"				"physics/flesh/flesh_impact_bullet3.wav"
+	"wave"				"physics/flesh/flesh_impact_bullet4.wav"
+	"wave"				"physics/flesh/flesh_impact_bullet5.wav"
+	}
+}
+"Bullet.Glass"
+{
+	"channel"				"CHAN_STATIC"
+	"volume"				"1.0"
+	"CompatibilityAttenuation"		"ATTN_NORM"
+	"pitch"				"99, 101"
+	"soundlevel"			"SNDLVL_90dB"
+	"rndwave"
+	{
+	"wave"				"physics/glass/glass_impact_bullet1.wav"
+	"wave"				"physics/glass/glass_impact_bullet2.wav"
+	"wave"				"physics/glass/glass_impact_bullet3.wav"
+	"wave"				"physics/glass/glass_impact_bullet4.wav"
+	"wave"				"physics/glass/glass_largesheet_break1.wav"
+	"wave"				"physics/glass/glass_largesheet_break2.wav"
+	"wave"				"physics/glass/glass_largesheet_break3.wav"
+	}
+}
+"Bullet.Metal"
+{
+	"channel"				"CHAN_STATIC"
+	"volume"				"1.0"
+	"CompatibilityAttenuation"		"ATTN_NORM"
+	"pitch"				"99, 101"
+	"soundlevel"			"SNDLVL_90dB"
+	"rndwave"
+	{
+	"wave"				"physics/metal/metal_solid_impact_bullet1.wav"
+	"wave"				"physics/metal/metal_solid_impact_bullet2.wav"
+	"wave"				"physics/metal/metal_solid_impact_bullet3.wav"
+	"wave"				"physics/metal/metal_solid_impact_bullet4.wav"
+	}
+}
+"Bullet.Tile"
+{
+	"channel"				"CHAN_STATIC"
+	"volume"				"1.0"
+	"CompatibilityAttenuation"		"ATTN_NORM"
+	"pitch"				"99, 101"
+	"soundlevel"			"SNDLVL_90dB"
+	"rndwave"
+	{
+	"wave"				"physics/plastic/plastic_box_impact_bullet1.wav"
+	"wave"				"physics/plastic/plastic_box_impact_bullet2.wav"
+	"wave"				"physics/plastic/plastic_box_impact_bullet3.wav"
+	"wave"				"physics/plastic/plastic_box_impact_bullet4.wav"
+	"wave"				"physics/plastic/plastic_box_impact_bullet5.wav"
+	}
+}
+"Bullet.Dirt"
+{
+	"channel"				"CHAN_STATIC"
+	"volume"				"1.0"
+	"CompatibilityAttenuation"		"ATTN_NORM"
+	"pitch"				"99, 101"
+	"soundlevel"			"SNDLVL_90dB"
+	"rndwave"
+	{
+	"wave"				"physics/surfaces/sand_impact_bullet1.wav"
+	"wave"				"physics/surfaces/sand_impact_bullet2.wav"
+	"wave"				"physics/surfaces/sand_impact_bullet3.wav"
+	"wave"				"physics/surfaces/sand_impact_bullet4.wav"
+	}
+}
+"Bullet.Wood"
+{
+	"channel"				"CHAN_STATIC"
+	"volume"				"1.0"
+	"CompatibilityAttenuation"		"ATTN_NORM"
+	"pitch"				"99, 101"
+	"soundlevel"			"SNDLVL_90dB"
+	"rndwave"
+	{
+	"wave"				"physics/wood/wood_solid_impact_bullet1.wav"
+	"wave"				"physics/wood/wood_solid_impact_bullet2.wav"
+	"wave"				"physics/wood/wood_solid_impact_bullet3.wav"
+	"wave"				"physics/wood/wood_solid_impact_bullet4.wav"
+	"wave"				"physics/wood/wood_solid_impact_bullet5.wav"
+	}
+}

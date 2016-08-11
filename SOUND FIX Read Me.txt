@@ -1,0 +1,3 @@
+Garry removed sound scripting in Gmod 13. This means that modders like me can't add 
+custom sounds with all of the functionality that used to be possible. So I apologize for
+the new sounds because they can't be heard far away. Hopefully Garry will re-add scripts!

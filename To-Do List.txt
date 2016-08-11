@@ -1,0 +1,32 @@
+[GLITCHES]
+-Penetration will not remove self when trace starts inside prop.	// FIXED
+-200kg effect error							// FIXED
+-Revise effect impact sounds						// FIXED
+-Fix rocket spawn offset						// FIXED
+-Flamethrower (Wire;Limit;Damage Ents)					// DUN; DUN; DUN
+
+[ENGINE]
+-Make explosion sphere function						// DUN
+-Make explosion cone function						// DUN
+-Make damage function							// DUN
+-Make destroyed prop effect better					// DUN
+
+[OPTIMIZE]
+-Penetration code(reduce if-then #; glitches)				// DUN
+-Make sounds distant fading; sound overhaul				// DUN
+-Reduce metal and plastic smoke						// DUN
+-Increase airburst radius						// DUN
+
+[FOR LOOKS]
+-Make penetrating effects dynamic; optimize				// DUN
+-Transfer material to destroyed stuff					// DUN
+-Make big props smoke more						// DUN
+-Make a fiery napalm effect						// DUN
+-Make a better WP effect						// DUN
+
+[REQUESTS]
+-Flamethrower								// DUN
+-Smoke rounds for MK-19							// DUN
+-Airburst for all medium caliber weapons				// DUN
+-Bomb Droppers								// DUN
+-More types of bombs							// DUN
